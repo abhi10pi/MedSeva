@@ -1,0 +1,11 @@
+streamlit
+Pillow
+easyocr
+transformers
+torch
+requests
+python-dotenv
+numpy
+pandas
+plotly
+datetime 
